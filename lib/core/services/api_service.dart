@@ -5,8 +5,7 @@ import 'package:http/http.dart' as http;
 
 class ApiService {
   // Chrome/Web
-  static const String baseUrl = "http://127.0.0.1:8000";
-
+  static const String baseUrl = "https://satarka-backend.onrender.com";
   // Android Emulator
   // static const String baseUrl = "http://10.0.2.2:8000";
 
