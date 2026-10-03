@@ -27,13 +27,13 @@ https://drive.google.com/drive/folders/1SliQ2q-NsiFzaTUa8lgQEmeWxJZTnBLt
 https://satarka-backend.onrender.com
 
 📂 Frontend Repository:
-https://github.com/mayankptdr/Satarka-app
+https://github.com/mayankptdr/SATARKA
 
 ⚙️ Backend Repository:
 https://github.com/mayankptdr/SATARKA
 
 🎥 Demo Video:
-https://youtu.be/YgVpmGxOIwk?si=vCWtEVA7cgmZN-7X
+https://github.com/mayankptdr/Satarka-backend
 
 
 # 🚀 About SATARKA
