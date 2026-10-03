@@ -1,98 +1,76 @@
 # 🏥 SATARKA
 
-## Your Personal Health Operating System
+### Your Personal Health Operating System
 
 <p align="center">
-  <img src="assets/logos/logo.png" width="180"/>
+  <img src="assets/logos/logo.png" width="280">
 </p>
 
 <p align="center">
-AI-Powered Healthcare Platform built using Flutter, FastAPI and Google Gemini.
+AI-Powered Healthcare Platform built using Flutter, FastAPI and Google Gemini AI.
 </p>
 
 <p align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-Mobile_App-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-![Python](https://img.shields.io/badge/Python-3.11-yellow)
-![Gemini](https://img.shields.io/badge/Google-Gemini_AI-orange)
-![Status](https://img.shields.io/badge/Status-Active_Development-success)
-
+  <img src="https://img.shields.io/badge/Flutter-Mobile_App-blue">
+  <img src="https://img.shields.io/badge/FastAPI-Backend-green">
+  <img src="https://img.shields.io/badge/Python-3.11-yellow">
+  <img src="https://img.shields.io/badge/Google-Gemini_AI-orange">
+  <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen">
 </p>
 
 ---
 
-## 🚧 Development Status
+# 🚀 About SATARKA
 
-SATARKA is currently in active development.
+SATARKA is an AI-powered healthcare platform designed to connect every healthcare interaction into one continuous health journey.
 
-**Current Version:** Prototype v1.0
-
-### Implemented
-
-✅ AI Assistant  
-✅ Medical Report Analyzer  
-✅ Symptom Checker  
-✅ Health Score System  
-✅ Emergency Module  
-✅ User Profile Management  
-✅ Settings & Privacy Module
-
-### Under Development
-
-🚧 Google Authentication  
-🚧 Phone Authentication  
-🚧 Database Integration  
-🚧 Family Health Profiles  
-🚧 Doctor Appointments  
-🚧 Lab Test Booking  
-🚧 Medicine Ordering  
-🚧 Health Timeline Engine
+Instead of acting as just another healthcare application, SATARKA functions as a **Personal Health Operating System**, helping users manage their health records, AI assistance, medical reports, health scores, emergency support, medications, and future healthcare services from a single intelligent platform.
 
 ---
 
-# 🌍 Vision
+# 🎯 Vision
 
-Healthcare today is fragmented.
+Our vision is to build the digital operating system for healthcare by connecting:
 
-Medical reports are stored in one place, prescriptions in another, medicine schedules somewhere else, and emergency information is often unavailable when needed most.
+- Patients
+- Doctors
+- Hospitals
+- Diagnostic Laboratories
+- Pharmacies
+- Insurance Providers
+- Emergency Services
+- Wearable Devices
 
-### SATARKA aims to become:
-
-> **The Operating System for Personal Healthcare**
-
-A platform that connects patients, doctors, laboratories, pharmacies, emergency services and healthcare intelligence into one continuous health journey.
+into one intelligent healthcare ecosystem.
 
 ---
 
-# 🚀 Features
+# ✨ Core Features
 
 ## 🤖 AI Health Assistant
 
-- Powered by Google Gemini
-- Conversational healthcare guidance
-- Symptom understanding
-- Personalized health recommendations
-- Friendly healthcare interaction
+- AI-powered healthcare conversations
+- Personalized health guidance
+- Symptom-based recommendations
+- Powered by Google Gemini AI
 
 ---
 
 ## 📄 Medical Report Analyzer
 
-- Upload PDF medical reports
-- AI-assisted report interpretation
-- Simplified medical explanations
-- Highlight important findings
-- Easy-to-understand health insights
+- Upload medical reports
+- AI-generated report summaries
+- Identify abnormal values
+- Health insights and explanations
 
 ---
 
-## 🩺 Symptom Checker
+## 📊 Health Score Engine
 
-- Symptom-based health assistance
-- AI-supported health guidance
-- Risk awareness recommendations
-- Encourages professional consultation
+- Dynamic health scoring
+- Health risk indicators
+- Wellness tracking
+- Progress monitoring
 
 ---
 
@@ -100,142 +78,144 @@ A platform that connects patients, doctors, laboratories, pharmacies, emergency 
 
 - Medication reminders
 - Treatment tracking
-- Medicine history management
+- Medicine history
 
 ---
 
-## 📈 Health Score Engine
+## 🩺 Symptom Checker
 
-- Dynamic health scoring
-- Wellness monitoring
-- Progress tracking
+- Symptom assessment
+- Health recommendations
+- Early healthcare guidance
 
 ---
 
-## 🚨 Emergency Assistance
+## 📅 Health Timeline
 
-- Emergency SOS
+- Continuous health journey
+- Health event tracking
+- Medical history visualization
+
+---
+
+## 🚨 Emergency Module
+
+- SOS support
 - Ambulance quick access
 - Emergency contacts
-- First Aid guidance
-- Future live location sharing
+- First-aid guidance
+- Location sharing
 
 ---
 
-## 🔐 Privacy & Consent
+## 🔒 Privacy & Consent
 
-- User-controlled healthcare data
+- User-controlled health data
 - Consent management
 - Privacy-first architecture
-- DPDP-inspired design principles
-
----
-
-# 📱 Application Screenshots
-
-## Splash Screen
-
-<img src="assets/images/Opening_page.jpeg" width="250">
-
----
-
-## Authentication
-
-<img src="assets/images/Authentication_ui.jpeg" width="250">
-
----
-
-## User Profile Setup
-
-<img src="assets/images/profile_generation.jpeg" width="250">
-
----
-
-## Dashboard
-
-<img src="assets/images/Dashboard.jpeg" width="250">
-
----
-
-## AI Health Assistant
-
-<img src="assets/images/Satarka_ai.jpeg" width="250">
-
----
-
-## Medical Report Analyzer
-
-<img src="assets/images/Report_analyser_feature.jpeg" width="250">
-
----
-
-## Emergency Module
-
-<img src="assets/images/Emergency_feature.jpeg" width="250">
-
----
-
-## Settings & Privacy
-
-<img src="assets/images/settings.jpeg" width="250">
+- DPDP-inspired design approach
 
 ---
 
 # 🏗️ System Architecture
 
 ```text
-                     SATARKA
-
-        ┌──────────────────────────┐
-        │     Flutter Frontend     │
-        └─────────────┬────────────┘
-                      │
-                      ▼
-        ┌──────────────────────────┐
-        │      FastAPI Backend     │
-        └─────────────┬────────────┘
-                      │
-      ┌───────────────┼───────────────┐
-      ▼                               ▼
-
- Google Gemini API             Health Engine
-
-      ▼                               ▼
-
- AI Conversations         Health Analytics
- Symptom Guidance         Health Score
- Report Insights          Future Predictions
+Foundation Layer
+       ↓
+AI Intelligence Layer
+       ↓
+Core Health Modules
+       ↓
+Healthcare Integration Layer
+       ↓
+Continuous Health Journey
 ```
 
 ---
 
-# ⚙️ Tech Stack
+# 🛠️ Technology Stack
 
-### Frontend
+## Frontend
 
 - Flutter
 - Dart
 
-### Backend
+## Backend
 
 - FastAPI
 - Python
 
-### AI Layer
+## AI Layer
 
-- Google Gemini API
+- Google Gemini AI
 
-### Deployment
-
-- Render
-
-### Communication
+## APIs
 
 - REST APIs
 
+## Deployment
+
+- Render
+
 ---
 
-# 🌐 Live Backend
+# 📱 Application Screenshots
+
+<table>
+<tr>
+<td align="center">
+<b>Splash Screen</b><br><br>
+<img src="assets/images/Opening_page.jpeg" width="300">
+</td>
+
+<td align="center">
+<b>Authentication</b><br><br>
+<img src="assets/images/Authentication_ui.jpeg" width="300">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Profile Setup</b><br><br>
+<img src="assets/images/profile_generation.jpeg" width="300">
+</td>
+
+<td align="center">
+<b>Dashboard</b><br><br>
+<img src="assets/images/Dashboard.jpeg" width="300">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>AI Assistant</b><br><br>
+<img src="assets/images/Satarka_ai.jpeg" width="300">
+</td>
+
+<td align="center">
+<b>Medical Report Analyzer</b><br><br>
+<img src="assets/images/Report_analyser_feature.jpeg" width="300">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Emergency Module</b><br><br>
+<img src="assets/images/Emergency_feature.jpeg" width="300">
+</td>
+
+<td align="center">
+<b>Settings</b><br><br>
+<img src="assets/images/settings.jpeg" width="300">
+</td>
+</tr>
+</table>
+
+---
+
+# 🌐 Live Services
+
+## Backend API
 
 https://satarka-backend.onrender.com
 
@@ -243,124 +223,102 @@ https://satarka-backend.onrender.com
 
 # 📂 Source Code
 
-### Frontend Repository
+## Frontend Repository
 
 https://github.com/mayankptdr/Satarka-app
 
-### Backend Repository
+## Backend Repository
 
 https://github.com/mayankptdr/Satarka-backend
 
 ---
 
-# 📦 Application Build
+# 📱 APK Download
 
-Google Drive Download:
+Google Drive:
 
-https://drive.google.com/drive/folders/1SliQ2q-NsiFzaTUa8lgQEmeWxJZTnBLt
+https://drive.google.com/drive/folders/1SliQ2q-NsiFzaTUa8lgQEmeWxJZTnBLt?usp=drive_link
 
 ---
 
 # 🎥 Demo Video
 
-Coming Soon
+Demo video link will be added soon.
 
 ---
 
 # 🔮 Future Roadmap
 
-SATARKA is being developed as a complete healthcare ecosystem.
+### 👨‍👩‍👧 Family Health Management
 
-### Phase 1
+- Family member profiles
+- Shared healthcare records
+- Dependent management
 
-- Google Authentication
-- Phone Authentication
-- Secure User Database
-- Persistent Login
-- User Health Profiles
+### 👨‍⚕️ Doctor Appointment Booking
 
-### Phase 2
+- Find doctors
+- Schedule appointments
+- Appointment reminders
 
-- Family Health Profiles
-- Child Health Records
-- Elderly Care Profiles
-- Family Member Management
+### 🧪 Diagnostic Lab Integration
 
-### Phase 3
+- Lab test booking
+- Report delivery
+- Automated report synchronization
 
-- Doctor Appointment Booking
-- Telemedicine Support
-- Doctor Dashboard
-- Prescription Management
+### 💊 Online Medicine Ordering
 
-### Phase 4
+- Medicine search
+- Pharmacy integration
+- Home delivery support
 
-- Diagnostic Lab Test Booking
-- Lab Report Integration
-- Automatic Health Timeline Updates
+### 🏥 Hospital Integration
 
-### Phase 5
+- Hospital discovery
+- Health record sharing
+- Treatment continuity
 
-- Online Medicine Ordering
-- Pharmacy Integration
-- Prescription Validation
-- Medicine Refill Reminders
+### 📱 Wearable Device Integration
 
-### Phase 6
+- Smartwatch integration
+- Activity tracking
+- Continuous monitoring
 
-- International Drug Database Integration
-- Drug Interaction Checking
-- Side Effect Detection
-- Medication Safety Engine
+### 🪪 ABHA Integration
 
-### Phase 7
+- National healthcare identity support
+- Digital health records
 
-- Wearable Device Integration
-- Smartwatch Health Data
-- Fitness Tracking
-- Continuous Monitoring
+### 📈 Predictive Health Intelligence
 
-### Phase 8
-
-- ABHA Integration
-- Insurance Integration
-- Hospital Integration
-- Unified Digital Health Records
-
-### Phase 9
-
-- Predictive Health Intelligence
-- Early Disease Risk Detection
-- Personalized Preventive Healthcare
-- AI Health Copilot
+- Health risk prediction
+- Personalized preventive recommendations
+- Long-term health insights
 
 ---
 
-# 🛡️ Medical Disclaimer
+# 🔐 Privacy
 
-SATARKA provides informational healthcare assistance only.
+Healthcare data is highly sensitive.
 
-The application does not diagnose, treat, cure or prevent diseases.
-
-Users should always consult qualified healthcare professionals before making medical decisions.
+SATARKA follows a privacy-first approach where users remain in control of their health information through transparent consent management and responsible data handling aligned with the principles of India's Digital Personal Data Protection (DPDP) Act.
 
 ---
 
-# 👨‍💻 Developed By
+# 👨‍💻 Developer
 
-### Mayank Patidar
+**Mayank Patidar**
 
 B.Tech Artificial Intelligence & Data Science
 
-Lakshmi Narain College of Technology, Bhopal
-
-Founder & Developer — SATARKA
+Lakshmi Narain College of Technology (LNCT), Bhopal
 
 ---
 
 # ⭐ Support
 
-If you found this project useful, consider giving it a star on GitHub.
+If you found this project interesting, consider giving it a star on GitHub.
 
 ---
 
