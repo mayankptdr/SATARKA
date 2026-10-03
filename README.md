@@ -241,7 +241,7 @@ https://satarka-backend.onrender.com
 
 ## Frontend Repository
 
-https://github.com/mayankptdr/Satarka-app
+https://github.com/mayankptdr/SATARKA
 
 ## Backend Repository
 
