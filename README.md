@@ -18,7 +18,23 @@ AI-Powered Healthcare Platform built using Flutter, FastAPI and Google Gemini AI
   <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen">
 </p>
 
----
+## 🔗 Quick Access
+
+📱 APK Download:
+https://drive.google.com/drive/folders/1SliQ2q-NsiFzaTUa8lgQEmeWxJZTnBLt
+
+🌐 Backend API:
+https://satarka-backend.onrender.com
+
+📂 Frontend Repository:
+https://github.com/mayankptdr/Satarka-app
+
+⚙️ Backend Repository:
+https://github.com/mayankptdr/Satarka-backend
+
+🎥 Demo Video:
+Coming Soon
+
 
 # 🚀 About SATARKA
 
@@ -230,20 +246,6 @@ https://github.com/mayankptdr/Satarka-app
 ## Backend Repository
 
 https://github.com/mayankptdr/Satarka-backend
-
----
-
-# 📱 APK Download
-
-Google Drive:
-
-https://drive.google.com/drive/folders/1SliQ2q-NsiFzaTUa8lgQEmeWxJZTnBLt?usp=drive_link
-
----
-
-# 🎥 Demo Video
-
-Demo video link will be added soon.
 
 ---
 
