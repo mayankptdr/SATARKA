@@ -30,10 +30,10 @@ https://satarka-backend.onrender.com
 https://github.com/mayankptdr/SATARKA
 
 ⚙️ Backend Repository:
-https://github.com/mayankptdr/SATARKA
+https://github.com/mayankptdr/Satarka-backend
 
 🎥 Demo Video:
-https://github.com/mayankptdr/Satarka-backend
+https://youtu.be/YgVpmGxOIwk?si=wNUuFS4UVVt-ggzG
 
 
 # 🚀 About SATARKA
