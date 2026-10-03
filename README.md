@@ -33,7 +33,7 @@ https://github.com/mayankptdr/Satarka-app
 https://github.com/mayankptdr/Satarka-backend
 
 🎥 Demo Video:
-Coming Soon
+https://youtu.be/YgVpmGxOIwk?si=vCWtEVA7cgmZN-7X
 
 
 # 🚀 About SATARKA
